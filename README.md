@@ -1,0 +1,4 @@
+# Hypothesis-Analysis-on-E-learning-Satisfaction
+COVID-19 is a contagious disease that is one of the major challenges faced by the whole world. This has changed the learning mode among students and undergraduates in Sri Lanka. In this study, the e-learning satisfaction among undergraduates is analyzed using statistical hypothesis methodologies as many students face various challenges in this e-learning system. Different factors like gender, current district, university and course details are examined and various hypothesis statements are generated. Test results indicate that there is strong evidence for an association between the students’ current district and the satisfaction level on accessing reliable software materials.  
+
+The data for this analysis is collected by sharing the questionnaire among undergradutes. 
