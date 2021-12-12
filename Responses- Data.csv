@@ -1,0 +1,104 @@
+Timestamp,Gender,Age,Current district of residence,University,Domain of Study,"How satisfied or dissatisfied are you with the following [I have no difficulty accessing reliable communication software/tools (e.g., MS Teams, Zoom, Google Hangout)]","How satisfied or dissatisfied are you with the following [I can always find time to participate in synchronous classes (e.g., live-streaming lectures or video conferencing at a set time)]","How satisfied or dissatisfied are you with the following [In general, my instructors are available or responsive]",How satisfied or dissatisfied are you with the following [The adjusted/modified assessment is effective in helping me learn],How satisfied or dissatisfied are you with the following [I feel that my course lessons or activities have been well delivered in the online environment],Which learning environment do you prefer?
+9/26/2021 11:47,Female,23,Gampaha,Sri Lanka Institute of Information Technology,Engineering,Satisfied,Satisfied,Satisfied,Satisfied,Satisfied,Hybrid
+9/26/2021 11:50,Female,24,Jaffna,University of Peradeniya,Engineering,Satisfied,Satisfied,Satisfied,Satisfied,Satisfied,Online
+9/26/2021 11:52,Female,24,Jaffna,University of Peradeniya ,Engineering,Satisfied,Neither satisfied nor dissatisfied,Very satisfied,Very satisfied,Satisfied,Face-to-face
+9/26/2021 11:54,Female,20,Jaffna,Sri Lanka Institute of Information Technology,Arts / Law / Technology,Very satisfied,Very satisfied,Very satisfied,Very satisfied,Very satisfied,Face-to-face
+9/26/2021 11:57,Female,21,Jaffna,University of Peradeniya,Engineering,Dissatisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Dissatisfied,Face-to-face
+9/26/2021 11:58,Male,22,Vavuniya,University of Moratuwa ,Engineering,Satisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Dissatisfied,Hybrid
+9/26/2021 11:59,Male,25,Jaffna,University of peradeniya ,Engineering,Satisfied,Satisfied,Satisfied,Neither satisfied nor dissatisfied,Satisfied,Face-to-face
+9/26/2021 12:05,Male,23,Jaffna,University of Peradeniya,Engineering,Very satisfied,Satisfied,Very satisfied,Satisfied,Very satisfied,Hybrid
+9/26/2021 12:07,Female,21,Vavuniya,University of Peradeniya,Engineering,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Satisfied,Satisfied,Satisfied,Hybrid
+9/26/2021 12:07,Female,23,Colombo,University of Colombo,Commerce/Management,Very satisfied,Dissatisfied,Neither satisfied nor dissatisfied,Satisfied,Satisfied,Online
+9/26/2021 12:07,Female,22,Jaffna,University of peradeniya ,Commerce/Management,Neither satisfied nor dissatisfied,Satisfied,Satisfied,Satisfied,Neither satisfied nor dissatisfied,Face-to-face
+9/26/2021 12:09,Male,20,Jaffna,University of Peradeniya ,Engineering,Satisfied,Satisfied,Satisfied,Satisfied,Satisfied,Hybrid
+9/26/2021 12:09,Male,21,Jaffna,University of Peradeniya,Engineering,Satisfied,Satisfied,Satisfied,Very dissatisfied,Satisfied,Face-to-face
+9/26/2021 12:09,Male,21,Jaffna,University of Peradeniya,Engineering,Satisfied,Satisfied,Satisfied,Satisfied,Satisfied,Online
+9/26/2021 12:10,Female,22,Colombo,University of Peradeniya ,Engineering,Satisfied,Neither satisfied nor dissatisfied,Satisfied,Satisfied,Satisfied,Hybrid
+9/26/2021 12:12,Female,21,Jaffna,University of peradeniya ,Engineering,Neither satisfied nor dissatisfied,Very satisfied,Satisfied,Satisfied,Neither satisfied nor dissatisfied,Hybrid
+9/26/2021 12:13,Male,22,Jaffna,University of Peradeniya ,Engineering,Satisfied,Satisfied,Satisfied,Satisfied,Neither satisfied nor dissatisfied,Face-to-face
+9/26/2021 12:15,Male,21,Jaffna,University of Peradeniya,Engineering,Neither satisfied nor dissatisfied,Satisfied,Satisfied,Satisfied,Neither satisfied nor dissatisfied,Face-to-face
+9/26/2021 12:16,Male,22,Jaffna,University of Peradeniya,Engineering,Satisfied,Satisfied,Satisfied,Satisfied,Satisfied,Online
+9/26/2021 12:16,Female,21,Jaffna,University of Peradeniya ,Engineering,Very dissatisfied,Dissatisfied,Satisfied,Satisfied,Very dissatisfied,Hybrid
+9/26/2021 12:17,Male,22,Colombo,University of peradeniya,Engineering,Satisfied,Satisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Face-to-face
+9/26/2021 12:18,Female,21,Colombo,University of Peradeniya,Engineering,Very satisfied,Satisfied,Neither satisfied nor dissatisfied,Dissatisfied,Satisfied,Face-to-face
+9/26/2021 12:18,Male,22,Colombo,Univesity of Colombo,Sciences,Satisfied,Very satisfied,Satisfied,Very dissatisfied,Dissatisfied,Face-to-face
+9/26/2021 12:21,Male,22,Jaffna,University of Peradeniya,Engineering,Satisfied,Satisfied,Satisfied,Satisfied,Satisfied,Face-to-face
+9/26/2021 12:24,Male,24,Batticaloa,University of Colombo,Sciences,Satisfied,Dissatisfied,Satisfied,Satisfied,Dissatisfied,Face-to-face
+9/26/2021 12:25,Female,21,Batticaloa,University of Peradeniya ,Engineering,Satisfied,Satisfied,Satisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Hybrid
+9/26/2021 12:26,Male,22,Jaffna,University of Sabragamuvaa ,IT,Satisfied,Neither satisfied nor dissatisfied,Satisfied,Satisfied,Neither satisfied nor dissatisfied,Face-to-face
+9/26/2021 12:26,Female,23,Kilinochchi,University of Peradeniya,Engineering,Satisfied,Neither satisfied nor dissatisfied,Satisfied,Satisfied,Neither satisfied nor dissatisfied,Hybrid
+9/26/2021 12:28,Male,24,Trincomalee,University of peradeniya,Engineering,Satisfied,Satisfied,Satisfied,Satisfied,Satisfied,Online
+9/26/2021 12:29,Male,23,Jaffna,University of Peradeniya,Engineering,Satisfied,Neither satisfied nor dissatisfied,Very satisfied,Satisfied,Satisfied,Face-to-face
+9/26/2021 12:31,Male,21,Jaffna,University of Peradeniya,Engineering,Satisfied,Satisfied,Satisfied,Satisfied,Satisfied,Face-to-face
+9/26/2021 12:32,Male,22,Jaffna,University Of Peradeniya ,Engineering,Satisfied,Satisfied,Satisfied,Satisfied,Satisfied,Online
+9/26/2021 12:32,Female,22,Puttalam,University of Peradeniya,Engineering,Neither satisfied nor dissatisfied,Satisfied,Satisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Face-to-face
+9/26/2021 12:38,Female,25,Jaffna,University of Peradeniya,Engineering,Satisfied,Neither satisfied nor dissatisfied,Satisfied,Satisfied,Satisfied,Face-to-face
+9/26/2021 12:40,Male,22,Colombo,University of Peradeniya,Engineering,Satisfied,Dissatisfied,Satisfied,Dissatisfied,Very dissatisfied,Face-to-face
+9/26/2021 12:41,Female,25,Jaffna,University Of Peradeniya,Engineering,Neither satisfied nor dissatisfied,Satisfied,Very satisfied,Very satisfied,Satisfied,Online
+9/26/2021 12:43,Male,23,Jaffna,University of Peradeniya,Engineering,Satisfied,Satisfied,Very satisfied,Satisfied,Neither satisfied nor dissatisfied,Hybrid
+9/26/2021 12:45,Female,25,Jaffna,University of Peradeniya,Engineering,Satisfied,Satisfied,Satisfied,Satisfied,Satisfied,Hybrid
+9/26/2021 12:50,Male,22,Vavuniya,University of Peradeniya,Engineering,Dissatisfied,Neither satisfied nor dissatisfied,Satisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Hybrid
+9/26/2021 12:50,Male,22,Colombo,CFPS Law school,Arts / Law / Technology,Very satisfied,Very satisfied,Satisfied,Satisfied,Satisfied,Hybrid
+9/26/2021 12:54,Female,22,Colombo,University of Peradeniya,Engineering,Satisfied,Neither satisfied nor dissatisfied,Very satisfied,Satisfied,Neither satisfied nor dissatisfied,Hybrid
+9/26/2021 12:58,Female,23,Jaffna,University of Peradeniya,Engineering,Very satisfied,Very satisfied,Very satisfied,Very satisfied,Very satisfied,Online
+9/26/2021 12:59,Male,21,Colombo,University of Moratuwa,Engineering,Very satisfied,Satisfied,Neither satisfied nor dissatisfied,Satisfied,Very satisfied,Hybrid
+9/26/2021 12:59,Male,22,Jaffna,University of peradeniya,Engineering,Satisfied,Satisfied,Neither satisfied nor dissatisfied,Very dissatisfied,Satisfied,Face-to-face
+9/26/2021 13:03,Male,22,Jaffna,University of Peradeniya,Engineering,Very satisfied,Satisfied,Very satisfied,Very satisfied,Satisfied,Hybrid
+9/26/2021 13:04,Male,23,Colombo,University of Peradeniya ,Engineering,Satisfied,Satisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Face-to-face
+9/26/2021 13:13,Female,23,Colombo,University of colombo ,Medicine,Very satisfied,Very satisfied,Satisfied,Satisfied,Satisfied,Face-to-face
+9/26/2021 13:17,Male,23,Vavuniya,University of Peradeniya,Engineering,Very satisfied,Satisfied,Satisfied,Satisfied,Satisfied,Online
+9/26/2021 13:35,Male,21,Jaffna,University of Peradeniya ,Engineering,Dissatisfied,Satisfied,Very satisfied,Satisfied,Satisfied,Face-to-face
+9/26/2021 13:37,Male,22,Jaffna,University of Peradeniya ,Engineering,Satisfied,Neither satisfied nor dissatisfied,Satisfied,Satisfied,Neither satisfied nor dissatisfied,Face-to-face
+9/26/2021 13:44,Male,21,Jaffna,University of Peradeniya,Engineering,Satisfied,Satisfied,Satisfied,Satisfied,Satisfied,Online
+9/26/2021 13:56,Female,21,Jaffna,University of Peradeniya,Engineering,Satisfied,Satisfied,Very satisfied,Satisfied,Satisfied,Face-to-face
+9/26/2021 14:16,Female,21,Jaffna,University of Peradeniya,Engineering,Satisfied,Neither satisfied nor dissatisfied,Satisfied,Satisfied,Satisfied,Face-to-face
+9/26/2021 14:16,Female,22,Colombo,Sri Lanka Institute of Information Technology,Engineering,Very satisfied,Very satisfied,Satisfied,Satisfied,Neither satisfied nor dissatisfied,Face-to-face
+9/26/2021 14:26,Male,22,Kegalle,University of peradeniya ,Engineering,Satisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Satisfied,Face-to-face
+9/26/2021 14:37,Male,22,Jaffna,University of Peradeniya ,Engineering,Satisfied,Neither satisfied nor dissatisfied,Satisfied,Satisfied,Neither satisfied nor dissatisfied,Hybrid
+9/26/2021 14:40,Male,21,Jaffna,Sri Lanka Institute of Information Technology,IT,Neither satisfied nor dissatisfied,Dissatisfied,Very dissatisfied,Neither satisfied nor dissatisfied,Dissatisfied,Face-to-face
+9/26/2021 14:45,Female,24,Jaffna,University of Peradeniya,Engineering,Satisfied,Satisfied,Satisfied,Satisfied,Satisfied,Face-to-face
+9/26/2021 14:47,Male,22,Mullaitivu,University of Peradeniya,Engineering,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Satisfied,Satisfied,Neither satisfied nor dissatisfied,Face-to-face
+9/26/2021 14:47,Male,23,Jaffna,University of Peradeniya,Engineering,Satisfied,Satisfied,Satisfied,Satisfied,Neither satisfied nor dissatisfied,Face-to-face
+9/26/2021 14:49,Male,23,Jaffna,University of Moratuwa ,Engineering,Satisfied,Satisfied,Satisfied,Neither satisfied nor dissatisfied,Dissatisfied,Face-to-face
+9/26/2021 14:55,Male,23,Jaffna,University of Moratuwa,Engineering,Satisfied,Satisfied,Satisfied,Neither satisfied nor dissatisfied,Dissatisfied,Face-to-face
+9/26/2021 14:59,Female,21,Jaffna,University of peradeniya ,Engineering,Neither satisfied nor dissatisfied,Dissatisfied,Satisfied,Dissatisfied,Very dissatisfied,Face-to-face
+9/26/2021 15:02,Male,21,Jaffna,Sri Lanka Institute of Information Technology,Engineering,Satisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Satisfied,Hybrid
+9/26/2021 15:03,Male,22,Colombo,University of Colombo,Engineering,Satisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Satisfied,Neither satisfied nor dissatisfied,Hybrid
+9/26/2021 15:25,Male,22,Jaffna,University of Peradeniya,Engineering,Satisfied,Neither satisfied nor dissatisfied,Satisfied,Satisfied,Dissatisfied,Face-to-face
+9/26/2021 15:30,Male,26,Jaffna,University of Moratuwa,Engineering,Very satisfied,Satisfied,Satisfied,Satisfied,Satisfied,Face-to-face
+9/26/2021 15:49,Female,25,Jaffna,University of Colombo ,Medicine,Neither satisfied nor dissatisfied,Satisfied,Dissatisfied,Dissatisfied,Neither satisfied nor dissatisfied,Face-to-face
+9/26/2021 16:31,Male,24,Batticaloa,University of Peradeniya,Engineering,Very satisfied,Neither satisfied nor dissatisfied,Satisfied,Satisfied,Very satisfied,Face-to-face
+9/26/2021 17:18,Female,22,Batticaloa,University of Peradeniya,Engineering,Neither satisfied nor dissatisfied,Dissatisfied,Neither satisfied nor dissatisfied,Dissatisfied,Very dissatisfied,Face-to-face
+9/26/2021 17:56,Male,22,Jaffna,University of Peradeniya ,Engineering,Satisfied,Satisfied,Satisfied,Satisfied,Satisfied,Face-to-face
+9/26/2021 18:18,Male,22,Jaffna,University of Peradeniya ,Engineering,Satisfied,Satisfied,Satisfied,Satisfied,Neither satisfied nor dissatisfied,Face-to-face
+9/26/2021 18:34,Female,22,Jaffna,University of Peradeniya,Engineering,Satisfied,Satisfied,Satisfied,Satisfied,Satisfied,Face-to-face
+9/26/2021 18:36,Male,21,Jaffna,University of Moratuwa,Engineering,Satisfied,Satisfied,Very satisfied,Satisfied,Satisfied,Online
+9/26/2021 18:49,Female,23,Jaffna,University of peradeniya,Engineering,Very satisfied,Satisfied,Satisfied,Satisfied,Very satisfied,Hybrid
+9/26/2021 19:30,Male,21,Jaffna,University of peradeniya,Engineering,Satisfied,Neither satisfied nor dissatisfied,Satisfied,Satisfied,Satisfied,Hybrid
+9/26/2021 20:31,Male,23,Jaffna,University of colombo,Medicine,Neither satisfied nor dissatisfied,Satisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Face-to-face
+9/27/2021 6:02,Female,23,Colombo,University of Colombo School of Computing,Arts / Law / Technology,Satisfied,Satisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Satisfied,Face-to-face
+9/27/2021 8:06,Female,20,Colombo,University of Wolverhampton,Sciences,Satisfied,Dissatisfied,Satisfied,Satisfied,Satisfied,Hybrid
+9/27/2021 8:59,Female,22,Colombo,ICBS ,Commerce/Management,Satisfied,Dissatisfied,Neither satisfied nor dissatisfied,Very dissatisfied,Neither satisfied nor dissatisfied,Face-to-face
+9/27/2021 9:07,Female,27,Colombo,University of Peradeniya ,Engineering,Satisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Satisfied,Dissatisfied,Hybrid
+9/27/2021 11:05,Female,20,Colombo,University of London ,Arts / Law / Technology,Satisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Satisfied,Neither satisfied nor dissatisfied,Face-to-face
+9/28/2021 23:31,Male,26,Colombo,Univesity of Colombo,Engineering,Dissatisfied,Dissatisfied,Very dissatisfied,Dissatisfied,Neither satisfied nor dissatisfied,Hybrid
+10/1/2021 9:48,Male,23,Colombo,University of Colombo,Sciences,Very satisfied,Satisfied,Satisfied,Dissatisfied,Neither satisfied nor dissatisfied,Face-to-face
+10/1/2021 10:16,Male,23,Colombo,University of Colombo,Sciences,Very satisfied,Very satisfied,Very satisfied,Dissatisfied,Very satisfied,Face-to-face
+10/1/2021 11:55,Female,21,Colombo,Univesity of Colombo,Sciences,Very satisfied,Very satisfied,Very satisfied,Very satisfied,Neither satisfied nor dissatisfied,Hybrid
+10/1/2021 11:56,Female,21,Colombo,Univesity of Colombo,Sciences,Very satisfied,Very satisfied,Very satisfied,Very satisfied,Satisfied,Hybrid
+10/1/2021 19:04,Female,25,Gampaha,University of Colombo ,Sciences,Very satisfied,Very satisfied,Satisfied,Neither satisfied nor dissatisfied,Dissatisfied,Hybrid
+10/2/2021 17:03,Female,25,Kurunegala,Univesity of Colombo,Sciences,Satisfied,Satisfied,Very satisfied,Satisfied,Satisfied,Face-to-face
+10/10/2021 11:29,Female,21,Kandy,Sri Lanka Institute of Information Technology,Engineering,Neither satisfied nor dissatisfied,Satisfied,Satisfied,Satisfied,Neither satisfied nor dissatisfied,Face-to-face
+10/10/2021 11:30,Female,20,Galle,Sri Lanka Institute of Information Technology,Engineering,Neither satisfied nor dissatisfied,Satisfied,Satisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Hybrid
+10/10/2021 14:21,Male,26,Jaffna,University of Jaffna,Sciences,Satisfied,Satisfied,Neither satisfied nor dissatisfied,Satisfied,Satisfied,Hybrid
+10/10/2021 15:41,Female,25,Anuradhapura,University of Peradeniya,Engineering,Satisfied,Satisfied,Satisfied,Satisfied,Satisfied,Hybrid
+10/10/2021 15:42,Male,23,Badulla,University of Peradeniya,Sciences,Satisfied,Satisfied,Satisfied,Satisfied,Satisfied,Hybrid
+10/11/2021 17:11,Female,24,Nuwara Eliya,University of Colombo,Sciences,Very satisfied,Very satisfied,Satisfied,Very satisfied,Very satisfied,Face-to-face
+10/11/2021 19:02,Male,24,Colombo,University of Colombo ,Sciences,Satisfied,Satisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Hybrid
+10/11/2021 19:03,Male,25,Colombo,Sri lanka Institute of Information Technology ,Engineering,Very satisfied,Very satisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Online
+10/11/2021 19:07,Male,27,Jaffna,IESLCE,Engineering,Very satisfied,Satisfied,Very satisfied,Very satisfied,Neither satisfied nor dissatisfied,Face-to-face
+10/11/2021 19:18,Female,24,Colombo,University of Colombo,Sciences,Satisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Satisfied,Hybrid
+10/11/2021 19:30,Male,23,Trincomalee,University of Colombo ,Sciences,Satisfied,Neither satisfied nor dissatisfied,Satisfied,Satisfied,Satisfied,Face-to-face
+10/11/2021 22:15,Male,25,Colombo,University of Colombo ,Sciences,Neither satisfied nor dissatisfied,Satisfied,Satisfied,Satisfied,Satisfied,Hybrid
+10/11/2021 22:51,Female,24,Polonnaruwa,University of Colombo School of Computing,Arts / Law / Technology,Dissatisfied,Neither satisfied nor dissatisfied,Satisfied,Satisfied,Satisfied,Face-to-face
+10/11/2021 22:52,Male,23,Kegalle,University of Colombo,Commerce/Management,Satisfied,Satisfied,Satisfied,Satisfied,Satisfied,Online
